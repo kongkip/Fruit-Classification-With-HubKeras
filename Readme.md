@@ -6,7 +6,7 @@ kaggle kernel.
 Pytorch as my major 
 but recently I decided to explore tensorflow because it's abit smooth to deploy trained 
 models to mobile.
-It relies on Keras as its high level API. In this code walkthrough am going to use 
+It relies on Keras as its high level API. In this project am going to use 
 [TFHub](https://www.tensorflow.org/tutorials/images/hub_with_keras) with tranfer 
 learning to classify fruits.**
 
@@ -19,6 +19,7 @@ I used [Fruit dataset](https://www.kaggle.com/moltean/fruits) which is available
 
 # Requirements
 tensorflow 1.12
+
 tensorflow_hub
 
 
